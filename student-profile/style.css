@@ -1,0 +1,31 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f1f5f9;
+    margin: 0;
+    padding: 40px 20px;
+    color: #1e293b;
+}
+
+.profile-card {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 30px;
+    background-color: white;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    text-align: center;
+    color: #1d4ed8;
+}
+
+h2 {
+    color: #334155;
+    margin-top: 24px;
+}
+
+p {
+    line-height: 1.7;
+}
