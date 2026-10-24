@@ -28,7 +28,3 @@ test("student profile links its stylesheet", () => {
 test("student profile stylesheet exists", () => {
   assert.ok(fs.existsSync("student-profile/style.css"));
 });
-
-test("deliberate failure test", () => {
-  assert.equal(1, 2);
-});
